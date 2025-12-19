@@ -66,7 +66,7 @@ intervals at 95% confidence.
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 - **R**
 - `car`
 - `corrplot`
